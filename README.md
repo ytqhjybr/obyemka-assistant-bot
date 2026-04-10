@@ -250,3 +250,4 @@ Translate(en-US)
 Использовали сервисы:
 Qwen - для создания системного промпта и базы знаний.
 Савви https://suvvy.ai/ - для создания ИИ-ассистента.нт компании ОБЪЕМКА 3D. Аддитивные технологии.
+Иллюстрация к проекту: https://github.com/ytqhjybr/obyemka-assistant-bot/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%B1%D0%BE%D1%82%20%D0%9E%D0%91%D0%AA%D0%95%D0%9C%D0%9A%D0%90%202.png?raw=true
